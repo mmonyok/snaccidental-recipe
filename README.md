@@ -1,4 +1,4 @@
-# snaccidental-recipe
+# Snaccidental Recipe
 Snaccidental Recipe is a web application that generates recipes based off of search criteria. 
 
 [Live Site!](https://dillon-smith-us.github.io/snaccidental-recipe/)
@@ -10,7 +10,7 @@ Snaccidental Recipe is a web application that generates recipes based off of sea
 - In working on this project, we learned how to use modals, resolve Git conflicts, furthered our knowledge of API implementation, collaborating as a group, implementing third party and server-side APIs, and trimming console outputs for search functions.
 
 ## Table of Contents
-- [snaccidental-recipe](#snaccidental-recipe)
+- [Snaccidental Recipe](#snaccidental-recipe)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
@@ -18,6 +18,7 @@ Snaccidental Recipe is a web application that generates recipes based off of sea
   - [Credits](#credits)
   - [License](#license)
   - [Badges](#badges)
+  - [Contact](#contact)
 
 ## Installation
 1. Provided that you have a code editor of your choosing installed on your system, such as VS Code (https://code.visualstudio.com/),
@@ -39,8 +40,8 @@ Snaccidental Recipe is a web application that generates recipes based off of sea
 ## Usage
 To utilize this page, simply click the drop downs to open up categorized listed ingredients. Select the ingredients you would like to cook with and then click the search button. You can also use the search bar on the top left of the page to enter your own ingredients or toggle the slider to add a specific dish you would like to add to the search. 
 
-![Screenshot of finished project.](./assets/images/screenshot.png)
-![GIF of finished project](./assets/images/snaccidentalrecipe.gif)
+![Screenshot of web application.](./assets/images/screenshot.png)
+![GIF of web application.](./assets/images/snaccidentalrecipe.gif)
 
 ## Credits
 - Collaborators
@@ -53,7 +54,7 @@ To utilize this page, simply click the drop downs to open up categorized listed 
 - [Bulma](https://bulma.io/)
 - [jQuery](https://jquery.com/)
 - [Spoonacular API](https://spoonacular.com)
-  - [Specifically we used the following API:](https://api.spoonacular.com/recipes/complexSearch)
+  - [Complex Search API](https://api.spoonacular.com/recipes/complexSearch)
 - [GitHub API](https://docs.github.com) 
 - [Google Font API](https://fonts.googleapis.com/css2)
 - Modal Assistance:
@@ -88,14 +89,29 @@ SOFTWARE.
 
 
 ## Badges
-![Language Count](https://img.shields.io/github/languages/count/dillon-smith-us/snaccidental-recipe?color=blueviolet&label=Repo%20Language%20Count&logo=GitHub&logoColor=blueviolet&style=plastic)
+![Language Count](https://img.shields.io/github/languages/count/mmonyok/snaccidental-recipe?color=9400D3&label=Language%20Count&logo=github&logoColor=9400D3&style=plastic)
 
-![Top Language](https://img.shields.io/github/languages/top/dillon-smith-us/snaccidental-recipe?color=blue&logo=GitHub&logoColor=blue&style=plastic)
+![Top Language](https://img.shields.io/github/languages/top/mmonyok/snaccidental-recipe?color=4B0082&logo=github&logoColor=4B0082&style=plastic)
 
-![License](https://img.shields.io/github/license/dillon-smith-us/snaccidental-recipe?color=green&logo=github&logoColor=green)
+![GitHub Followers](https://img.shields.io/github/followers/mmonyok?color=0000FF&label=Followers&logo=github&logoColor=0000FF&style=plastic)
 
-![Forks](https://img.shields.io/github/forks/dillon-smith-us/snaccidental-recipe?color=yellow&logo=github&logoColor=yellow&style=plastic)
+![Forks](https://img.shields.io/github/forks/mmonyok/snaccidental-recipe?color=00FF00&label=Forks&logo=GitHub&logoColor=00FF00&style=plastic)
 
-![Repo Size](https://img.shields.io/github/repo-size/dillon-smith-us/snaccidental-recipe?color=important&logo=github&logoColor=important&style=plastic)
+![License](https://img.shields.io/github/license/mmonyok/snaccidental-recipe?color=FFFF00&label=License&logo=github&logoColor=FFFF00&style=plastic)
 
-![Code Lines](https://img.shields.io/tokei/lines/github/dillon-smith-us/snaccidental-recipe?color=FF0000&label=code%20lines&logo=github&logoColor=FF0000&style=plastic)
+![Repo Size](https://img.shields.io/github/repo-size/mmonyok/snaccidental-recipe?color=FF7F00&label=Repo%20Size&logo=github&logoColor=FF7F00&style=plastic)
+
+![Code Lines](https://img.shields.io/tokei/lines/github/mmonyok/snaccidental-recipe?color=FF0000&label=Code%20Lines&logo=github&logoColor=FF0000&style=plastic)
+
+![Follow on Twitter](https://img.shields.io/twitter/follow/sheisthemelody?style=social)
+
+## Contact
+- Melody Monyok
+  - <monyokwebdev@gmail.com>
+  - (612) 492-1528
+- Chris Beard
+  - <cbeard@hnoj.org>
+- Dillon Smith
+  - <dillsmth@gmail.com>
+- Daniel Klauer
+  - <danielkl12@icloud.com>
